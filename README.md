@@ -6,8 +6,10 @@ If you have ever played a MUD -- or, Multi-User Dungeon as us old folks like to 
 
 I just wanted to design a storyline like this for myself, but creating a system that allows for *anyone* to create these simulated storylines is much easier than coding an infinitely recursive set of IF/THEN/ELSE loops on a personal project.
 
+
+
 # timeline
-Starting with SYSTEMS.md for laying out the necessary systems for the gameplay loop to function. I see the likely order of operations being:
+Starting with SYSTEMS.md for laying out the necessary systems for the gameplay loop to function; creating project management system via PivotalTracker. Main stories to complete are:
 
 <dl>
   <dt>core code</dt>
@@ -62,5 +64,11 @@ Starting with SYSTEMS.md for laying out the necessary systems for the gameplay l
 </dl>
 
 # contact
-
 Feel free to reach out to millsley@gmail.com to talk about anything, or see what I'm working on next.
+
+# license
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+# acknowledgments
+* Thanks to AOL 1.0 for keyword: games at age 10 which provided DragonRealms - a text-based massively multiplayer online RPG before there were MMORPGs with graphics. Still a few hundred players online during peak nowadays, but back then... 2500-3000, easy.
+* Everyone involved in getting us to the point where computers can be used to create stories and connect people.
