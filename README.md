@@ -9,11 +9,17 @@ I just wanted to design a storyline like this for myself, but creating a system 
 # timeline
 Starting with SYSTEMS.md for laying out the necessary systems for the gameplay loop to function. I see the likely order of operations being:
 
-- core code - what room am I in, what objects can I interact with in the room, what objects can I interact with on my person, an awareness/help injection system for informing player of task timelines and updates, a skills system for allowing an easier completion of tasks based on what was chosen in character creation.
-
-- main loop
-
 <dl>
+  <dt>core code</dt>
+  <dd>
+    Eventually contain skeleton for: what room am I in, what objects can I interact with in the room, what objects can I interact with on my person, an awareness/help injection system for informing player of task timelines and updates, a skills system for allowing an easier completion of tasks based on what was chosen in character creation.
+  </dd>
+
+  <dt>main loop</dt>
+  <dd>
+    time loop for time spent in a room before MOVING to a new one.
+  </dd>
+  
   <dt>room system</dt>
   <dd>
     object that contains a description, and is a container for interactable objects. Tasks (with previous completion / failure trees contained) inject themselves into a room based on previous actions in previous rooms.
