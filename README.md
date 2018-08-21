@@ -51,7 +51,11 @@ Starting with SYSTEMS.md for laying out the necessary systems for the gameplay l
   <dd>
     These could possibly be basic tasks to remind you to do essential functions before leaving a room - IE; put clothes on before leaving to work. If not even that is done, you get a STRONG FAIL that will have serious consequences for later tasks, may have them skip altogether and enter new situations with a negative comeuppance further down.
   </dd>
-  
+</dl>
+
+# eventuals
+
+<dl>
   <dt>character creation intro</dt>
   <dd>
     Something giving the storyline some variability based off of initial context. Also allows skills to help with tasks.
@@ -60,6 +64,11 @@ Starting with SYSTEMS.md for laying out the necessary systems for the gameplay l
   <dt>skills system</dt>
   <dd>
     Skillcheck to see if you have the skills from the character creator to either bypass a task completely, lower the roundtime of completing it, or let you simply USE SKILL to not have to figure out the verb to objects needed to complete the task.
+  </dd>
+  
+  <dt>Timing Based Skill / Type Checks</dt>
+  <dd>
+    Would love to create some creative text-twitch gameplay, a la Heavy Rain for PS3 or God of War style press-button-in-timeframe scenarios. Have pattern generators for ASCII noise with hints of commands leaking through, IE: coworker says something snarky and you catch the words HUMILIATE ASSHOLE revealed in ASCII noise, then successfully type it in, and update task flags or take different story directions.
   </dd>
 </dl>
 
