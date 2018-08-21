@@ -12,14 +12,48 @@ Starting with SYSTEMS.md for laying out the necessary systems for the gameplay l
 - core code - what room am I in, what objects can I interact with in the room, what objects can I interact with on my person, an awareness/help injection system for informing player of task timelines and updates, a skills system for allowing an easier completion of tasks based on what was chosen in character creation.
 
 - main loop
--- room system
--- verb system
--- object system
--- object in room / object in inventory system
--- task system
--- timeline system for counting down on tasks
--- character creation part
--- skills system
+
+<dl>
+  <dt>room system</dt>
+  <dd>
+    object that contains a description, and is a container for interactable objects. Tasks (with previous completion / failure trees contained) inject themselves into a room based on previous actions in previous rooms.
+  </dd>
+
+  <dt>verb system</dt>
+  <dd>
+    commands for user to interact within certain room with certain objects (room first, then inventory)
+  </dd>
+  
+  <dt>object system</dt>
+  <dd>
+    items within a room that if interacted with correctly, can change the state of a task's future trajectory.
+  </dd>
+
+  <dt>object in room / object in inventory system</dt>
+  <dd>
+    Objects you can take from a room and allow you to interact with in every room.
+  </dd>
+  
+  <dt>task system</dt>
+  <dd>
+    Tasks "start" upon entrance to a certain room; likely, a bunch will start on the first room. Then if you REVIEW TASKS or something along those lines, you have a roundtime to remember all of the tasks to complete. If you don't interact with a certain task via a verb or interaction with an object by a certain time, the memory becomes hazier and the first revealed details of the task start fading away from your REVIEW TASKS remembrance. Eventually, just falls off the list and you can try to remember it; possible context clues appear in the room instead that might help you. Or if you CHECK PHONE you may see texts / calls / calendar reminders to do something.
+  </dd>
+
+  <dt>timeline system for counting down on tasks</dt>
+  <dd>
+    These could possibly be basic tasks to remind you to do essential functions before leaving a room - IE; put clothes on before leaving to work. If not even that is done, you get a STRONG FAIL that will have serious consequences for later tasks, may have them skip altogether and enter new situations with a negative comeuppance further down.
+  </dd>
+  
+  <dt>character creation intro</dt>
+  <dd>
+    Something giving the storyline some variability based off of initial context. Also allows skills to help with tasks.
+  </dd>
+
+  <dt>skills system</dt>
+  <dd>
+    Skillcheck to see if you have the skills from the character creator to either bypass a task completely, lower the roundtime of completing it, or let you simply USE SKILL to not have to figure out the verb to objects needed to complete the task.
+  </dd>
+</dl>
 
 # contact
 
