@@ -1,11 +1,11 @@
 # worldSim
 text-based gameplay loop system for designing stories
 
+
 ## concept
 If you have ever played a MUD -- or, Multi-User Dungeon as us old folks like to call it -- you know what I'm going for here. The major difference in this single player experience is the concept of time limits; purely enforced to force the player to try and complete certain tasks. Complete the task and a future "room" might be easier to solve or present different opportunities to trail down different storylines. Combine the idea of a MUD with an escape room and you get the idea.
 
 I just wanted to design a storyline like this for myself, but creating a system that allows for *anyone* to create these simulated storylines is much easier than coding an infinitely recursive set of IF/THEN/ELSE loops on a personal project.
-
 
 
 ## timeline
@@ -63,12 +63,15 @@ Starting with SYSTEMS.md for laying out the necessary systems for the gameplay l
   </dd>
 </dl>
 
-## contact
+
+# contact
 Feel free to reach out to millsley@gmail.com to talk about anything, or see what I'm working on next.
 
-## license
+
+# license
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## acknowledgments
+
+# acknowledgments
 * Thanks to AOL 1.0 for keyword: games at age 10 which provided DragonRealms - a text-based massively multiplayer online RPG before there were MMORPGs with graphics. Still a few hundred players online during peak nowadays, but back then... 2500-3000, easy.
 * Everyone involved in getting us to the point where computers can be used to create stories and connect people.
