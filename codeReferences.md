@@ -19,9 +19,7 @@ Lots of great projects started; however we don't need the multi-user functionali
 
 - http://www.ifwiki.org - huge wiki on the "Interactive Fiction" movement
 - http://www.ifwiki.org/index.php/Choose_your_own_adventure - CYOA structure links
-
 - https://store.steampowered.com/app/718670/Cultist_Simulator/ - interesting gameplay mechanics; prose/crafting
-
 - http://www.gammon.com.au/forum/bbshowpost.php?id=4496&page=1 - tinyMUD info
 - https://github.com/nickgammon/tinymudserver - tinyMUD
 - http://www.gammon.com.au/forum/?id=5959&reply=7#reply7 - deciding MUD capabilities
