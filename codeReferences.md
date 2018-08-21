@@ -1,10 +1,10 @@
-## references
+# references
 
 There's a lot of great ways to approach the project scripting / programming. Based off of some initial research, looking to utilize a combination of Python for main code and Lua for some scripting / table-within-table calls.
 
 Lots of great projects started; however we don't need the multi-user functionality as it will be a single player terminal experience platform for plugging in stories.
 
-# lua ref
+## lua ref
 
 https://stackoverflow.com/questions/30841738/run-lua-script-from-python
 https://github.com/scoder/lupa - Lua / LuaJIT2 into CPython
@@ -15,7 +15,7 @@ http://the4thwiki.com/lua/getting.html - Lua for Python Programmers
 https://www.aardwolf.com/lua/lua-mud-functions.html
 https://www.aardwolf.com/lua/lua-howto.html
 
-# game ref
+## game ref
 
 http://www.ifwiki.org - huge wiki on the "Interactive Fiction" movement
 http://www.ifwiki.org/index.php/Choose_your_own_adventure - CYOA structure links
@@ -31,7 +31,7 @@ https://github.com/evennia/evennia - running MUD in python
 https://pypi.org/project/grailmud/ - another python MUD server
 https://www.gammon.com.au/forum/?id=11072 - making a world from scratch
 
-# parser ref
+## parser ref
 
 https://www.intfiction.org/forum/viewtopic.php?f=38&t=8586#p55464 - huge list of threads on parsers
 http://www.ifwiki.org/index.php/Past_raif_topics:_Development:_part_2#Parsing - also wiki on Interactive Fiction
