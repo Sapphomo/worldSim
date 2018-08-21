@@ -6,8 +6,8 @@ Lots of great projects started; however we don't need the multi-user functionali
 
 ## lua ref
 
-https://stackoverflow.com/questions/30841738/run-lua-script-from-python
-https://github.com/scoder/lupa - Lua / LuaJIT2 into CPython
+- https://stackoverflow.com/questions/30841738/run-lua-script-from-python
+- https://github.com/scoder/lupa - Lua / LuaJIT2 into CPython
 https://github.com/endgame/MudCore - Lua based MUD
 https://github.com/DeltaF1/Lua-MUD - Lua based MUD
 https://github.com/luarocks/luarocks/wiki/Installation-instructions-for-Windows - luaRocks is a git-esque library for lua.
