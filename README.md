@@ -66,10 +66,14 @@ Starting with SYSTEMS.md for laying out the necessary systems for the gameplay l
     Skillcheck to see if you have the skills from the character creator to either bypass a task completely, lower the roundtime of completing it, or let you simply USE SKILL to not have to figure out the verb to objects needed to complete the task.
   </dd>
   
-  <dt>Timing Based Skill / Type Checks</dt>
+  <dt>twitch skillchecks</dt>
   <dd>
     Would love to create some creative text-twitch gameplay, a la Heavy Rain for PS3 or God of War style press-button-in-timeframe scenarios. Have pattern generators for ASCII noise with hints of commands leaking through, IE: coworker says something snarky and you catch the words HUMILIATE ASSHOLE revealed in ASCII noise, then successfully type it in, and update task flags or take different story directions.
   </dd>
+  
+  <dt>emotive typing display</dt>
+  <dd>
+    Best example of this is the Nintendo Switch game Golf Story; the chatboxes themselves will animate somewhat as well as the timing of revealed text to mimic emotive storytelling. Can set a <html>-esque tag for a task action or mob action for how to "read" or display the text to the user. Could also create separate "animations" as text-color-shift/growth-in-size/shaking for tags around words or phrases.
 </dl>
 
 
