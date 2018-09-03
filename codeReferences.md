@@ -28,6 +28,7 @@ Lots of great projects started; however we don't need the multi-user functionali
 - https://github.com/evennia/evennia - running MUD in python
 - https://pypi.org/project/grailmud/ - another python MUD server
 - https://www.gammon.com.au/forum/?id=11072 - making a world from scratch
+https://www.choiceofgames.com/magics/#utm_medium=web&utm_source=ourgames - choicescript engine
 
 ## parser ref
 
