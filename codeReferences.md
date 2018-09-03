@@ -4,6 +4,8 @@ There's a lot of great ways to approach the project scripting / programming. Bas
 
 Lots of great projects started; however we don't need the multi-user functionality as it will be a single player terminal experience platform for plugging in stories.
 
+https://www.pivotaltracker.com/n/projects/2192067 - project tracker
+
 ## lua ref
 
 - https://stackoverflow.com/questions/30841738/run-lua-script-from-python
