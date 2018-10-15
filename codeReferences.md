@@ -30,7 +30,9 @@ https://www.pivotaltracker.com/n/projects/2192067 - project tracker
 - https://github.com/evennia/evennia - running MUD in python
 - https://pypi.org/project/grailmud/ - another python MUD server
 - https://www.gammon.com.au/forum/?id=11072 - making a world from scratch
-https://www.choiceofgames.com/magics/#utm_medium=web&utm_source=ourgames - choicescript engine
+- https://www.choiceofgames.com/magics/#utm_medium=web&utm_source=ourgames - choicescript engine
+- https://codeburst.io/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df - building a sweet commandline
+
 
 ## parser ref
 
